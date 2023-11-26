@@ -1,0 +1,42 @@
+[
+    {
+        "id": "45efd727e4818478",
+        "type": "ui_text",
+        "z": "0b67ae13f680fcfd",
+        "group": "dd632e009e9df90a",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "",
+        "format": "{{msg.payload}}",
+        "layout": "row-center",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 770,
+        "y": 360,
+        "wires": []
+    },
+    {
+        "id": "dd632e009e9df90a",
+        "type": "ui_group",
+        "name": "Criança",
+        "tab": "71f2352a82744ef0",
+        "order": 1,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "71f2352a82744ef0",
+        "type": "ui_tab",
+        "name": "IOT-gs",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    }
+]
