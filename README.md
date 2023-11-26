@@ -28,7 +28,9 @@ Link: https://wokwi.com/projects/382426100994756609
 ps: esteje conectado a internet
 
 ![Alt text](image.png)
+
 Se quiser pode rodar 
+![Alt text](rodar.png)
 
 ### 3-Vamos entrar no site para ver se o MQTT está funcionando 
 abra este link: https://www.hivemq.com/demos/websocket-client/
@@ -42,6 +44,7 @@ abra este link: https://www.hivemq.com/demos/websocket-client/
  ![Alt text](rodar2-1.png)
 
  Abra o http://127.0.0.1:1880/ui para ver o dashboard funcionando
+ ![Alt text](visualizar.png)
 
 E pronto agora é só apertar os botões no simulador.
 
